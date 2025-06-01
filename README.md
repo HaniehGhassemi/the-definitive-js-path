@@ -51,3 +51,15 @@ git branch -r
 # checkout a specific chapter
 git checkout chapter-03-objects
 ```
+
+Or just browse the branches right on GitHub!
+
+---
+
+## 🧠 Why I'm Doing This
+
+As part of improving my core JavaScript foundations, this repo helps me:
+
+- Write clear, working examples of every major JS concept
+- Track my progress and learning journey
+- Build habits through structured reading and coding
