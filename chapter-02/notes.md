@@ -1,4 +1,4 @@
-# Chapter 01 - Notes
+# Chapter 02 - Notes
 
 In this chapter, I reviewed fundamental concepts of JavaScript’s lexical structure, including case sensitivity, whitespace, comments, identifiers, reserved words, and Unicode. Most of these topics were familiar to me from previous studies.
 
